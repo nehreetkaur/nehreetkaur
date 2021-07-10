@@ -2,7 +2,7 @@
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 ## About Me :
 <hr>
-<p>I'm a certified Full Stack Web Developer (University of Texas in Austin) who is very passionate about learning new things. I'm a
+<p>I am an experienced professional with 7+ years of experience in the Healthcare industry.I hold a Bachelor's degree in Internet Sciences.I'm a certified Full Stack Web Developer (University of Texas in Austin) who is very passionate about learning new things. I'm a
 constant learner who's continually
 looking for ways to help advance my
 knowledge and career. I'm
@@ -11,7 +11,7 @@ and user-friendly applications. I'm
 proud to say I have always left a
 positive mark in my past workplaces
 due to my ability to build good
-relationship with my coworkers.Proactive in learning new skills and knowledge with core competency in full stack web development such as Javascript, jQuery, HTML, CSS, MERN Stack, SQL, REST API's.</p>
+relationship with my coworkers.Proactive in learning new skills and knowledge with core competency in full stack web development such as Javascript, HTML, CSS, MERN Stack, SQL.</p>
 Life-long dedication to learning and in self development. Quick-learner, very organized, ability to work under pressure, collaborative communicator. I look forward to bringing my skills and passion for software development to build user focused applications.<br>
 <br>
 
@@ -47,7 +47,7 @@ Life-long dedication to learning and in self development. Quick-learner, very or
 
 ### Social-Media
 
-<a href="https://https://www.linkedin.com/in/nehreet-kaur-063558180/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
+<a href="https://www.linkedin.com/in/nehreet-kaur-063558180/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 
 
