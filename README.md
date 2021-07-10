@@ -17,7 +17,7 @@ Life-long dedication to learning and in self development. Quick-learner, very or
 <br>
  View my 
 [**Portfolio here.**](https://nehreetkaur.github.io/updated-portfolio/)
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehreetkaur&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehreetkaur&layout=compact)]
 (https://github.com/nehreetkaur/github-readme-stats)
 
 ## Technical Skills :
