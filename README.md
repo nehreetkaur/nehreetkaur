@@ -44,8 +44,7 @@ Life-long dedication to learning and in self development. Quick-learner, very or
 ![Nehreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehreetkaur&show_icons=true&theme=radical)
 
 
-## Social-media
-You can find me on [![LinkedIn][3.2]][3].
+
 
 
 
