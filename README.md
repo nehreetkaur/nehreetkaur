@@ -26,7 +26,8 @@ Life-long dedication to learning and in self development. Quick-learner, very or
 * Back End: Node.js, Express.js, APIs, SQL(MySQL), Sequelize, NoSQL(MongoDB), Mongoose
 * Frameworks: Bootstrap, Semantic UI, Material UI
 * Applications: Git, GitHub, Heroku
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nehreetkaur&show_icons=true&theme=radical)
+![Nehreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehreetkaur&show_icons=true&theme=radical)
+
 
 <!--
 **nehreetkaur/nehreetkaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
