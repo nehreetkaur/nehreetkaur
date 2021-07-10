@@ -14,8 +14,11 @@ due to my ability to build good
 relationship with my coworkers.Proactive in learning new skills and knowledge with core competency in full stack web development such as Javascript, jQuery, HTML, CSS, MERN Stack, SQL, REST API's.</p>
 Life-long dedication to learning and in self development. Quick-learner, very organized, ability to work under pressure, collaborative communicator. I look forward to bringing my skills and passion for software development to build user focused applications.<br>
 <br>
- View my 
-[**Portfolio here.**](https://nehreetkaur.github.io/updated-portfolio/)
+
+
+ ## My Portfolio Link:
+ 
+ [NEHREET'S-Portfolio](https://nehreetkaur.github.io/updated-portfolio/)
 
 
 
