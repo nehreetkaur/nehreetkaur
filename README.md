@@ -1,4 +1,4 @@
-# <b> Nehreet Kaur </b>
+# <b> Nehreet Kaur  </b> 
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 ## About Me :
 <hr>
@@ -42,6 +42,12 @@ Life-long dedication to learning and in self development. Quick-learner, very or
 
 
 ![Nehreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehreetkaur&show_icons=true&theme=radical)
+
+
+## Social-media
+You can find me on [![LinkedIn][3.2]][3].
+
+
 
 
 <!--
