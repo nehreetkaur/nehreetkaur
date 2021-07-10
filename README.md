@@ -27,10 +27,15 @@ Life-long dedication to learning and in self development. Quick-learner, very or
 
 ## Technical Skills :
 <hr>
-* Front End: JavaScript(ES6), jQuery, AJAX, HTML, CSS, Handlebars.js, React.js
-* Back End: Node.js, Express.js, APIs, SQL(MySQL), Sequelize, NoSQL(MongoDB), Mongoose
-* Frameworks: Bootstrap, Semantic UI, Material UI
-* Applications: Git, GitHub, Heroku
+
+**Front End**: JavaScript(ES6), jQuery, AJAX, HTML, CSS, Handlebars.js, React.js
+
+
+**Back End**: Node.js, Express.js, APIs, SQL(MySQL), Sequelize, NoSQL(MongoDB), Mongoose
+ 
+**Frameworks**: Bootstrap, Semantic UI, Material UI
+
+**Applications**: Git, GitHub, Heroku
 
 
 ![Nehreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=nehreetkaur&show_icons=true&theme=radical)
