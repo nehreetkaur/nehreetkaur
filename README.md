@@ -16,7 +16,7 @@ Painting and Travel.Proactive in learning new skills and knowledge with core com
 Life-long dedication to learning and in self development. Quick-learner, very organized, ability to work under pressure, collaborative communicator. I look forward to bringing my skills and passion for software development to build user focused applications.<br>
 <br>
  View my 
-[**Portfolio here.**](https://nehreetkaur.github.io/updated_portfolio/)
+[**Portfolio here.**](https://nehreetkaur.github.io/updated-portfolio/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehreetkaur&layout=compact)](https://github.com/nehreetkaur/github-readme-stats)
 ## Technical Skills :
 <hr>
@@ -24,8 +24,8 @@ Life-long dedication to learning and in self development. Quick-learner, very or
 * Back End: Node.js, Express.js, APIs, SQL(MySQL), Sequelize, NoSQL(MongoDB), Mongoose
 * Frameworks: Bootstrap, Semantic UI, Material UI
 * Applications: Git, GitHub, Heroku
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=guptaria&show_icons=true&theme=radical)
-<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=guptaria) -->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nehreetkaur&show_icons=true&theme=radical)
+
 <!--
 **nehreetkaur/nehreetkaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
