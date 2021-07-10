@@ -1,4 +1,4 @@
-# <b>Priya Garg </b>
+# <b> Nehreet Kaur </b>
 <!-- ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a) -->
 ## About Me :
 <hr>
@@ -16,8 +16,8 @@ Painting and Travel.Proactive in learning new skills and knowledge with core com
 Life-long dedication to learning and in self development. Quick-learner, very organized, ability to work under pressure, collaborative communicator. I look forward to bringing my skills and passion for software development to build user focused applications.<br>
 <br>
  View my 
-[**Portfolio here.**](https://guptaria.github.io/updated_portfolio/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guptaria&layout=compact)](https://github.com/guptaria/github-readme-stats)
+[**Portfolio here.**](https://nehreetkaur.github.io/updated_portfolio/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nehreetkaur&layout=compact)](https://github.com/nehreetkaur/github-readme-stats)
 ## Technical Skills :
 <hr>
 * Front End: JavaScript(ES6), jQuery, AJAX, HTML, CSS, Handlebars.js, React.js
