@@ -45,7 +45,9 @@ Life-long dedication to learning and in self development. Quick-learner, very or
 
 
 
+### Social-Media
 
+<a href="https://https://www.linkedin.com/in/nehreet-kaur-063558180/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>
 
 
 
